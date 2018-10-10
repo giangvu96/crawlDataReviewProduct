@@ -6,7 +6,8 @@ import scrapy
 class Review(scrapy.Spider):
     name = 'review'
     start_urls = [
-                  'https://www.amazon.com/Differential-Equations-Scientists-Engineers-Mathematics-ebook/product-reviews/B008TVLUTW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews&pageNumber=1']
+        'https://www.amazon.com/gp/product/B0785GSH3H/ref=s9_acsd_top_hd_bw_bBEUMd_cr_x__w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=W3TF5TMQ96MY2A2KWHSK&pf_rd_r=W3TF5TMQ96MY2A2KWHSK&pf_rd_t=101&pf_rd_p=880f6efe-1f80-5bd2-8adc-c0fe3131ecad&pf_rd_p=880f6efe-1f80-5bd2-8adc-c0fe3131ecad&pf_rd_i=165993011',
+      ]
     # start_urls = ['https://www.amazon.com/s/ref=lp_7072561011_nr_n_0?fst=as%3Aoff&rh=n%3A2335752011%2Cn%3A%212335753011%2Cn%3A7072561011%2Cn%3A2407748011&bbn=7072561011&ie=UTF8&qid=1538584000&rnid=7072561011']
     # def parse(self, response):
     #     # searchResults = response.xpath('//div[@id="search-results"]')

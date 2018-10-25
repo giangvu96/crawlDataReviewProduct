@@ -13,13 +13,14 @@ BOT_NAME = 'quotesbot'
 
 SPIDER_MODULES = ['quotesbot.spiders']
 NEWSPIDER_MODULE = 'quotesbot.spiders'
-DOWNLOAD_DELAY = 1
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'quotesbot (http://www.amazon.com)'
-
+USER_AGENT = 'crawl data harryposter'
+DOWNLOAD_DELAY = 0.3
+CLOSESPIDER_PAGECOUNT= 200000
+FEED_EXPORT_ENCODING = 'utf-8'
 # Obey robots.txt rules
-# ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = True
 # SPLASH_URL = 'http://localhost:8050'
 # DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 # HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
@@ -35,7 +36,7 @@ USER_AGENT = 'quotesbot (http://www.amazon.com)'
 # 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': 400,
 # }
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+# CONCURRENT_REQUESTS = 32
 
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay

@@ -15,12 +15,12 @@ SPIDER_MODULES = ['quotesbot.spiders']
 NEWSPIDER_MODULE = 'quotesbot.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'crawl data harryposter'
+USER_AGENT = 'crawl data electronic 04'
 DOWNLOAD_DELAY = 0.3
-CLOSESPIDER_PAGECOUNT= 200000
+# CLOSESPIDER_PAGECOUNT= 200000
 FEED_EXPORT_ENCODING = 'utf-8'
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+# ROBOTSTXT_OBEY = True
 # SPLASH_URL = 'http://localhost:8050'
 # DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 # HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'

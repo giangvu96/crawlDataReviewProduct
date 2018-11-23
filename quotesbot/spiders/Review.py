@@ -3,9 +3,9 @@ import scrapy
 #Book
 import json
 
-def getUrl():
+def getUrlElectronic():
     urlArray = []
-    with open('test.json') as f:
+    with open('urlElectronic.json') as f:
         data = json.load(f)
     # for x in data:
     #     urlArray.append(x["review"])
@@ -16,9 +16,24 @@ def getUrl():
         urlArray.append(url[0] + middle + url[1] + after )
     return urlArray
 
+def getUrlBook():
+    urlArray = []
+    with open('url_100_Book_Young_Adult.json') as f:
+        data = json.load(f)
+    for x in data:
+        url = x["review"].split('/dp')
+        middle = '/product-reviews'
+        after3 = '/ref=cm_cr_dp_d_hist_3?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews#reviews-filter-bar'
+        after2 = '/ref=cm_cr_dp_d_hist_2?ie=UTF8&filterByStar=two_star&reviewerType=all_reviews#reviews-filter-bar'
+        after1 = '/ref=cm_cr_dp_d_hist_1?ie=UTF8&filterByStar=one_star&reviewerType=all_reviews#reviews-filter-bar'
+        # urlArray.append(url[0] + middle + url[1] + after2 )
+        urlArray.append(url[0] + middle + url[1] + after3 )
+    return urlArray
+
 class Review(scrapy.Spider):
     name = 'review'
-    start_urls = getUrl()
+    # start_urls = getUrlElectronic()
+    start_urls = getUrlBook()
 
     #review_book_01.json
     # start_urls = [

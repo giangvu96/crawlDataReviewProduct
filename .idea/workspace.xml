@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14753e75-d3ba-4fc6-a8f3-3154dfdc55f3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="536776514">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="43" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="3" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="7" />
+          <entry key="json" value="403" />
+          <entry key="py" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ini" value="7" />
+          <entry key="JSON" value="403" />
+          <entry key="Python" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="json" value="6" />
+          <entry key="py" value="2137" />
+          <entry key="txt" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="6" />
+          <entry key="PLAIN_TEXT" value="80" />
+          <entry key="Python" value="2137" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Chasing Down the Presidents Men</find>
+      <find>SHAME ON AMAZON! Once again they have put reviews ...</find>
+      <find>A must read for everyone</find>
+      <find>Really enjoyed the first section of the book</find>
+      <find>have my 12 year olds sons book from 4 years ago.</find>
+      <find>Next time, make it longer!</find>
+      <find>https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S</find>
+      <find>https://www.amazon.com/Panasonic-Headphones-RP-TCM120-K-Ergonomic-Comfort-Fit/dp/B003EM80082</find>
+      <find>Logitech-MK320-Wireless</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/quotesbot/spiders/ReviewProduct.py" />
+        <option value="$PROJECT_DIR$/review/settings.py" />
+        <option value="$PROJECT_DIR$/review/items.py" />
+        <option value="$PROJECT_DIR$/review/spiders/Review.py" />
+        <option value="$PROJECT_DIR$/quotesbot/items.py" />
+        <option value="$PROJECT_DIR$/quotesbot/pipelines.py" />
+        <option value="$PROJECT_DIR$/review.json" />
+        <option value="$PROJECT_DIR$/reviewCellphoen.json" />
+        <option value="$PROJECT_DIR$/review_book_03.json" />
+        <option value="$PROJECT_DIR$/review_book_09.json" />
+        <option value="$PROJECT_DIR$/quotesbot/settings.py" />
+        <option value="$PROJECT_DIR$/reviewElectronic_04.json" />
+        <option value="$PROJECT_DIR$/quotesbot/spiders/Review.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="88" />
+    <option name="width" value="1313" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crawlDataReviewProduct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawlDataReviewProduct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawlDataReviewProduct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawlDataReviewProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="quotesbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawlDataReviewProduct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawlDataReviewProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="quotesbot" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sentiment-analysis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/quotesbot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/quotesbot" />
+      <recent name="$PROJECT_DIR$/quotesbot/spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14753e75-d3ba-4fc6-a8f3-3154dfdc55f3" name="Default Changelist" comment="" />
+      <created>1538322481061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538322481061</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Review product">
+      <created>1538326734665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538326734665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Review product">
+      <created>1538573411285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538573411285</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Review product Fix">
+      <created>1538667677620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538667677620</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Review product Fix 222">
+      <created>1539133497202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539133497204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Full">
+      <created>1540475684729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475684729</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Crawl new">
+      <created>1542622504506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542622504506</updated>
+    </task>
+    <task id="LOCAL-00007" summary="crawl auto with link">
+      <created>1542940071758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542940071758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="25" width="1321" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41019607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" x="63" y="96" width="1285" height="611" id="Terminal" order="11" weight="0.45676997" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32952693" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32941177" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Review product" />
+    <MESSAGE value="Review product Fix" />
+    <MESSAGE value="Review product Fix 222" />
+    <MESSAGE value="Full" />
+    <MESSAGE value="Crawl new" />
+    <MESSAGE value="crawl auto with link" />
+    <option name="LAST_COMMIT_MESSAGE" value="crawl auto with link" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/review_baby_clothes.json" />
+    <entry file="file://$PROJECT_DIR$/review_computer_monitor.json" />
+    <entry file="file://$PROJECT_DIR$/review_electronics.json" />
+    <entry file="file://$PROJECT_DIR$/review_pets.json" />
+    <entry file="file://$PROJECT_DIR$/review_sportings.json" />
+    <entry file="file://$PROJECT_DIR$/review_toY.json" />
+    <entry file="file://$PROJECT_DIR$/review_test_toy.json" />
+    <entry file="file://$PROJECT_DIR$/see_all_review.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBook.json" />
+    <entry file="file://$PROJECT_DIR$/review-book.json" />
+    <entry file="file://$PROJECT_DIR$/../../PageRank/wikiPageRank/wikiPageRank/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_book_02.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_01.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_03.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_04.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_05.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_06.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_07.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_08.json" />
+    <entry file="file://$PROJECT_DIR$/review_book_09.json" />
+    <entry file="file://$PROJECT_DIR$/quotesbot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex.json" />
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewElectronic.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_00.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_01.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_02.json" />
+    <entry file="file://$PROJECT_DIR$/../data scrapy amazon electronic/reviewElectronic_00.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../data scrapy amazon electronic/reviewElectronic_01.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549775" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_03.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_05.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_04.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_Neg_30k_01.json" />
+    <entry file="file://$PROJECT_DIR$/quotesbot/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_Neg_30k.json" />
+    <entry file="file://$PROJECT_DIR$/reviewElectronic_3_start.json" />
+    <entry file="file://$PROJECT_DIR$/urlElectronic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="99" column="72" lean-forward="true" selection-start-line="99" selection-start-column="72" selection-end-line="99" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get-pip.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100_url_book_children.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotesbot/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quotesbot/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewBookYouth_Adult_2_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookChildren_2_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookBiographies_2_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookYouth_Adult_1_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookBiographies_1_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookChildren_1_star.json" />
+    <entry file="file://$PROJECT_DIR$/quotesbot/spiders/Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reviewBookBiographies_3_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookChildren_3_star.json" />
+    <entry file="file://$PROJECT_DIR$/reviewBookYouth_Adult_3_star.json" />
+  </component>
+</project>
